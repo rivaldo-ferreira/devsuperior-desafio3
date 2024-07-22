@@ -1,0 +1,13 @@
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Rivaldo Ferreira','130.147.588-14',3000.0,TIMESTAMP WITH TIME ZONE '1977-09-25T13:00:00Z',2);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Emilio Dutra','141.121.500-134',3500.0,TIMESTAMP WITH TIME ZONE '1974-02-05T10:00:00Z',3);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Juliana Cavalcante','250.221.412-08',2987.0,TIMESTAMP WITH TIME ZONE '1982-03-10T11:00:00Z',1);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Claudio Bernal','189.321.149-84',5420.0,TIMESTAMP WITH TIME ZONE '1983-12-25T05:00:00Z',3);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Elaine Cristine Tobar','220.101.257-36',4650.0,TIMESTAMP WITH TIME ZONE '1981-05-31T02:00:00Z',1);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Cadmu Pradella','157.257.328-90',5250.0,TIMESTAMP WITH TIME ZONE '1975-07-25T22:00:00Z',2);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Lucinei Custódio','221.413.124-77',8900.0,TIMESTAMP WITH TIME ZONE '1977-03-10T18:00:00Z',3);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Henrique Dutra Queiroz','201.587.107-02',5500.0,TIMESTAMP WITH TIME ZONE '1979-02-13T15:00:00Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Fernanda Monteiro','235.623.410-23',3980.0,TIMESTAMP WITH TIME ZONE '1982-11-03T10:00:00Z',1);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Alexandre Miranda','236.745.456-94',9000.0,TIMESTAMP WITH TIME ZONE '1980-12-10T17:00:00Z',4);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Fátima Lopez','185.279.103-12',10000.0,TIMESTAMP WITH TIME ZONE '1972-05-21T19:00:00Z',5);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Norma Fátima Silva','223.897.621-51',5500.0,TIMESTAMP WITH TIME ZONE '1972-07-14T21:00:00Z',3);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Débora Gomes da Silva','178.247.963-47',6580.0,TIMESTAMP WITH TIME ZONE '1979-04-02T16:00:00Z',0);
